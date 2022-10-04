@@ -70,7 +70,7 @@ Widget cardComponent() {
       child: (InkWell(
           splashColor: Colors.blue.withAlpha(30),
           onTap: () {
-            debugPrint('Tapped');
+            debugPrint('Tapped!');
           },
           child: SizedBox(
               width: 330,
