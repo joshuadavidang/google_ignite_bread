@@ -11,7 +11,7 @@
 To clone this project, execute the follow command
 
 ```
-git clone https://github.com/torrizing/google-ignite-22-group2.git
+git clone https://github.com/joshuadavidang/google_ignite_bread
 ```
 
 **Step 2:**
